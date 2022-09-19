@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/RecapDemo1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/arraysDemo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/conditionals" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dataaTypes" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/javaHelloWorld" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/loopDemo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/multiDimensionalArrayDemo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/reCapDemo2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/switchDemo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/variables" vcs="Git" />
+  </component>
+</project>
